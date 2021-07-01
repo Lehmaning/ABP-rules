@@ -1,5 +1,9 @@
-![ABP 55]
-!--浏览器升级广告
+[Adblock Plus 2.0]
+! Title:ABP-rules-for-via
+! Expires: 7 days (update frequency)
+! Description: 屏蔽如浏览器更新的各种钓鱼广告
+
+!--浏览器更新--
 ||6065997.com
 ||zdfjas.top
 ||aodjcnz.top
@@ -16,3 +20,4 @@
 ||lhy2.xyz
 ||zhfiaop.top
 ||zzcm1.com
+||chkxe1.com
