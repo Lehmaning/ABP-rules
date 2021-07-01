@@ -3,7 +3,9 @@
 ! Expires: 7 days (update frequency)
 ! Description: 屏蔽如浏览器更新的各种钓鱼广告
 
-!--浏览器更新--
+!--浏览器--
+!----浏览器更新----
+||chkxe1.com
 ||6065997.com
 ||zdfjas.top
 ||aodjcnz.top
@@ -16,7 +18,7 @@
 ||sensorsdatavip.com
 ||sf6-amtos-cdn.bytesmanager.com
 ||chemacid.cn
-||yoke.arkn81.com
+||arkn81.com
 ||lhy2.xyz
 ||zhfiaop.top
 ||zzcm1.com
@@ -26,7 +28,7 @@
 !chanel.wohewodejxz.top:4433
 ||wohewodejxz.top
 ||1lssllppaa.xyz
-!2wii2.fsjapcz.top
+!2wii2.
 ||fsjapcz.top
 ||fhsuifh.cn
 ||fhwkdfh.cn
@@ -36,7 +38,7 @@
 ||xiaongmao.cn
 ||gosmxcm.cn
 ||huanlaife.cn
-!page.kkshess.cn
+!page.
 ||kkshess.cn
 ||sgbbc.cn
 ||agh60gq4.site
@@ -45,11 +47,54 @@
 ||liadano.com.cn
 ||tunxbcy.top
 ||seonaudo.cn
+||mgzgmyzz.com
+||tx7xcmf.wang
+||iu33dq2.wang
+||0bx.top
+!llq.
+||1234aqllq.cn
+!vnm.
+||ting76789.cn
+||kkshess.cn
+!mip./m.
+||yemnn.cn
+!p1.
+||abcloud.cn
+!yue.vcynm.cn:8237
+||vcynm.cn
+!w.
+||viqw.top
+!cop.
+||cspzxy.com
+!safe.sogou.
+||front99.com
+!safe.
+||c661.top
+!c.kd882.com:456
+||kd882.com
+!m.
+||afjam.top
+||viqj.top
+||akdj.top
+||dajdn.top
+||875528.xyz
+||zxdvs.cn
+||gbfe.top
 
-!--浏览器下载地址--
-||yl82.cn
+!----浏览器下载地址----
+||cdnqq.yl82.cn
 ||lrwei.top
 ||xionghaizi.ren
+||sl.sogoucdn.con
+||cdn.fffxp.com
+||qd.afwr.top
+||pz0.3dn.mse.sogou.com
+||kmufa.cn
+||fjew.top
+
+!--虚假系统漏洞--
+!e.
+||15mobi.com
 
 !--广告脚本注入--
 ||shshuoshu.com
