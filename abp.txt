@@ -80,6 +80,8 @@
 ||875528.xyz
 ||zxdvs.cn
 ||gbfe.top
+||hzxhymc.com
+!||sdl.hzxhymc.com
 
 !----浏览器下载地址----
 ||cdnqq.yl82.cn
