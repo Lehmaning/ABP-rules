@@ -22,7 +22,6 @@
 ||lhy2.xyz
 ||zhfiaop.top
 ||zzcm1.com
-||chkxe1.com
 ||fhsuifh.cn
 ||fhwkdfh.cn
 ||jijiduan.cn
@@ -95,7 +94,7 @@
 ||kmufa.cn
 ||fjew.top
 ||cdn.fffxp.com
-!m
+!m.
 ||tjinchi.xyz
 
 !--虚假系统漏洞--
@@ -104,7 +103,7 @@
 ||15mobi.com
 !vnm.
 ||ting76789.cn
-!m
+!m.
 ||viqj.top
 ||gbfe.top
 !w.
@@ -119,3 +118,4 @@
 !--广告脚本注入--
 ||sugar.zhihu.com
 ||shshuoshu.com
+||res.cdn.openinstall.io
