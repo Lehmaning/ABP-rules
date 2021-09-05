@@ -119,6 +119,4 @@
 ||sugar.zhihu.com
 ||shshuoshu.com
 ||res.cdn.openinstall.io
-||afie.xin
-||afeidj.com
 ||hnltcw.com
