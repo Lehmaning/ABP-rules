@@ -116,6 +116,7 @@
 ||vcynm.cn
 
 !--广告脚本注入--
+||betylife.com
 ||sugar.zhihu.com
 ||shshuoshu.com
 ||res.cdn.openinstall.io
