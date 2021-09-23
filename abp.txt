@@ -120,3 +120,5 @@
 ||shshuoshu.com
 ||res.cdn.openinstall.io
 ||hnltcw.com
+||lhy1.xyz
+||kfyg.xyz
