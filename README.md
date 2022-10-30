@@ -5,7 +5,7 @@
 
      ——等劫持式广告网站。
 
-Via 用户请将[该地址](https://cdn.jsdelivr.net/gh/Lehmaning/ABP-rules-for-via/abp.txt)加入到 Via 浏览器的广告屏蔽订阅列表中。
+Via 用户请将[该地址](https://fastly.jsdelivr.net/gh/Lehmaning/ABP-rules-for-via/abp.txt)加入到 Via 浏览器的广告屏蔽订阅列表中。
 
 TODO：
 * 自动转换脚本
